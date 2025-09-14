@@ -58,11 +58,12 @@ Example:python molecular_solubility_prediction.py
 - Validate on external molecular datasets for robust generalization.  
 - Further analyze important chemical features impacting solubility.
 
-## Author
-[Your Full Name]  
-MSc Data Science Student | Berlin, Germany  
-Email: [Your Email]  
-GitHub: [Your GitHub Profile]
+Author
+[Rohith Kumar Reddipogula]
+MSc Data Science Student, Berlin, Germany
+Email: [rohith.reddipogula@outlook.com]
+LinkedIn: [(https://www.linkedin.com/in/rohith-kumar-reddipogula-a6692030b/)]
+GitHub: [https://github.com/Rohithkumar999]
 
 ---
 
