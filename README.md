@@ -59,6 +59,7 @@ Example:python molecular_solubility_prediction.py
 - Further analyze important chemical features impacting solubility.
 
 Author
+
 [Rohith Kumar Reddipogula]
 
 MSc Data Science Student, Berlin, Germany
